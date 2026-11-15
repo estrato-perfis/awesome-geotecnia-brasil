@@ -85,6 +85,7 @@ Ferramentas e material gratuitos do [Estrato Perfis](https://estratoperfis.com.b
 - [Material didático](https://estratoperfis.com.br/material-didatico): para professores e estudantes.
 - [geotecnia-br](https://github.com/estrato-perfis/geotecnia-br): biblioteca pequena, em Python e JavaScript (MIT): classificação por N<sub>SPT</sub>, UTM SIRGAS 2000, carga hidráulica, volumes de poço e número de sondagens.
 - [qgis-estrato-furos](https://github.com/estrato-perfis/qgis-estrato-furos): plugin do QGIS que carrega furos e poços de um CSV em UTM SIRGAS 2000 e calcula carga e gradiente (GPL-2.0-or-later).
+- [Dados fictícios de sondagens SPT e poços de monitoramento, para ensino](https://doi.org/10.5281/zenodo.24249026): conjunto aberto (CC BY 4.0) com furos SPT, camadas e poços em duas campanhas, todos inventados, para aula e testes.
 - Dados fictícios para ensino (furos SPT e poços, CC BY 4.0): no Zenodo, com DOI, depois da publicação. O link entra aqui quando existir.
 
 ## Contribuir e licença
