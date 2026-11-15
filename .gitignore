@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/
+build/
+node_modules/
+*.tgz
+.venv/
+.env
+.env.*
+*.log
+.DS_Store
+Thumbs.db
+# Os ZIPs ficam em dist/ só para enviar ao repositório de plugins; não vão para o git.
+qgis-estrato-furos/dist/*.zip
